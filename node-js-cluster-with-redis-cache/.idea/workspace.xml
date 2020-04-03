@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c95ed7e4-991f-4926-9017-93153fca2a9c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Ztr51ZeUPexgB4oZBY3UCKKbCe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../WETELO" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c95ed7e4-991f-4926-9017-93153fca2a9c" name="Default Changelist" comment="" />
+      <created>1585669044059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585669044059</updated>
+      <workItem from="1585669045275" duration="1698000" />
+      <workItem from="1585734099965" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="181" width="800" height="677" key="#JavaScript" timestamp="1585669237261">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="555" y="181" width="800" height="677" key="#JavaScript/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1585669237261" />
+    <state x="743" y="278" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585734134120">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="743" y="278" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1585734134120" />
+    <state width="1897" height="257" key="GridCell.Tab.0.bottom" timestamp="1585671614989">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1897" height="257" key="GridCell.Tab.0.bottom/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1585671614989" />
+    <state width="1897" height="257" key="GridCell.Tab.0.center" timestamp="1585671614989">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1897" height="257" key="GridCell.Tab.0.center/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1585671614989" />
+    <state width="1897" height="257" key="GridCell.Tab.0.left" timestamp="1585671614989">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1897" height="257" key="GridCell.Tab.0.left/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1585671614989" />
+    <state width="1897" height="257" key="GridCell.Tab.0.right" timestamp="1585671614989">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1897" height="257" key="GridCell.Tab.0.right/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1585671614989" />
+  </component>
+</project>

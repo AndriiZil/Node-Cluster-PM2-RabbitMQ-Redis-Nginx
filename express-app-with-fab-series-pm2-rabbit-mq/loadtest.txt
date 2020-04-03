@@ -1,0 +1,2 @@
+loadtest -n 1000 -c 100 --rps 100 http://localhost:3000?number=20
+rabbitmqctl list_queues

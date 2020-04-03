@@ -1,0 +1,1 @@
+loadtest -n 10000 -c 200 --rps 200 http://localhost:3000/jph/posts
